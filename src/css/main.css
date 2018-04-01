@@ -1,0 +1,24 @@
+body {
+    margin: 4% 8%;
+}
+
+#mainTitle {
+	font-size: 1.3em;
+	font-weight: bold;
+}
+
+#searchComponent {
+	margin-top: 3%;
+}
+
+#displayComponent {
+	margin-top: 8%;
+}
+
+#tableHeader {
+	font-size: 0.9em;
+}
+
+.table {
+	border-radius: 10px !important;
+}
